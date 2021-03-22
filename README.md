@@ -34,6 +34,8 @@ Por favor, colocar as temporadas em ordem crescente: 2011, 2012, 2013 e assim va
 
 - Os clibes no json estão agrupados por Estado, por favor mantenha desta forma.
 
+- Pode adicionar novos clubes ou incluir novas temporadas para os que ja existem.
+
 ### Posições e fases de cada competição:
 
 ### Copa do Brasil
