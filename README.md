@@ -32,9 +32,11 @@
 }
 Por favor, colocar as temporadas em ordem crescente: 2011, 2012, 2013 e assim vai. O nome das competições tem que está escrito dessa forma, caso contrário não irá funcionar.
 
-- Os clibes no json estão agrupados por Estado, por favor mantenha desta forma.
+- Os clubes no json estão agrupados por Estado, por favor mantenha desta forma.
 
 - Pode adicionar novos clubes ou incluir novas temporadas para os que ja existem.
+
+- Recomendo copiar um objeto que já esteja pronto
 
 ### Posições e fases de cada competição:
 
